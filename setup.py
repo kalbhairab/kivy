@@ -1,4 +1,3 @@
-#
 # Kivy - Cross-platform UI framework
 # https://kivy.org/
 #
